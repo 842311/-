@@ -1,0 +1,43 @@
+Text表
+
+商品id 		shopid
+商品图片		shopimg
+商品价格		shopprice
+商品标题		shoptitle
+浏览次数		shopBrowse
+销售次数		Sell
+商品类型		Shoptype
+产品详情		shopdetails
+酒店信息		hotel
+费用说明		costDescroption
+退款政策		refund
+提示		tips
+
+==========================================
+order表
+
+商品id				id
+用户id				User_id
+商品名称				shopName
+商品类型（境内、境外）		type
+购买次数				sum
+总价钱				price
+
+==========================================
+
+User表
+
+用户id				User_id
+用户名称				UserName
+性别				sex
+账号				UserAccount
+密码				UserPwd
+穷币				QB
+钱包余额				balance
+个性签名				UserIntroduce
+联系电话				Phone
+生日				birthday
+现居住地址			Address
+曾居住地址			onceAddress
+
+
